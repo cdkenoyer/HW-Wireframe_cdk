@@ -1,0 +1,126 @@
+@charset "utf-8";
+
+html {
+    height: 100%;
+}
+
+body {
+    color: black;
+    background-color: #777;
+
+}
+
+.container {
+    background-color: #777;
+    width: 960px;
+    margin: 0px auto;
+    padding: 0px;
+
+}
+
+
+div {
+    margin: 0px;
+    padding: 0px;
+}
+
+header, nav, footer {
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 20px 0px 22px 0px;
+    clear: both;
+
+}
+
+section {
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    width: 496px;
+    height: auto;
+    margin: 0px 0px 10px 0px;
+    padding: 20px 0px 22px 0px;
+    float: left;
+
+}
+
+aside {
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    width: 453px;
+    height: 388px;
+    margin: 0px 0px 10px 0px;
+    padding: 20px 0px 22px 0px;
+    float: right;
+    /* clear: both; */
+
+}
+
+article {
+    background-color: #777;
+    color: #ebebeb;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    width: auto;
+    height: auto;
+    margin:22px 0px 23px 0px;
+    padding: 20px 0px 22px 0px;
+    /* float: left; */
+
+
+}
+
+.box02 {
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+    font-weight: bold;
+
+    line-height: 150%;
+    width: auto;
+    height: auto;
+    margin: 22px 10px 10px 10px;
+    padding: 20px 0px 22px 0px;
+
+}
+
+.box01 {
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+    line-height: 150%;
+    width: auto;
+    height: auto;
+    margin: 0px 10px 50px 10px;
+    padding: 20px 0px 22px 0px;
+
+}
+
+/* .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
